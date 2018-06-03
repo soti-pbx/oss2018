@@ -1,6 +1,6 @@
 ## Open Security Summit 2018
-
-Welcome to the home page of the Open Security Summit 2018
+ 
+Welcome to the home page of the Open Security Summit 2018.
 
 Registration is open [On EventBrite](https://eventbrite.be/tickets-external?eid=39825671656&ref=etckt) 
 
